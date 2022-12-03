@@ -1,0 +1,75 @@
+body {
+	background-color: #ffffff;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.common {
+	position: absolute;
+}
+
+.header {
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	height: 80px;
+    text-align: center;
+    background-image: url(../images/dark\ wood.jpeg);
+    color: white;
+    padding-top: 5px;
+    padding-right: 70px;
+}
+
+.left {
+	top: 85px;
+	left: 0px;
+	width: 210px;
+    height: 830px;
+    background-image: url(../images/dark\ wood.jpeg);
+    color:#ffffff;
+    padding-left: 10px;
+}
+
+.right {
+    top: 85px;
+	right: 0px;
+	width: 280px;
+    height: 830px;
+    background-image: url(../images/dark\ wood.jpeg);
+    color:#ffffff;
+    padding-right: 10px;
+}
+
+.main {
+	top: 115px;
+	right: 280px;
+	left: 210px;
+	height: 800px;
+	padding-right: 5px;
+    padding-left: 15px;
+    background-image: url(../images/background1.jpeg);
+}
+
+.footer {
+    bottom: 0px;
+	left: 0px;
+	right: 0px;
+	height: 20px;
+	font-size: 8px;
+	color: #ffffff;
+	text-align: center;
+	padding-top: 0px;
+    padding-bottom: 3px;
+	position: fixed;
+    background-color: black;
+}
+
+.links {
+    top: 85px;
+    left: 210px;
+    width: 948px;
+    text-align: center;
+    background-color: #ffffff;
+    height: 30px;
+    padding-top: 7px;
+    background-image: url(../images/background1.jpeg);
+}
